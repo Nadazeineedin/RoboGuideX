@@ -63,6 +63,10 @@ cd RoboGuideX
 ## **📄 License**  
 This project is licensed under the **MIT License** – you are free to modify and distribute it.  
 
+## 🎥 Demo Video  
+[![Watch the Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://github.com/user-attachments/assets/5f307b24-138e-4543-bc58-131b10712d67)
+
+
 ## **📩 Contact & Contributions**  
 💡 **Contributions are welcome!** Feel free to submit issues or pull requests.  
 📧 For inquiries, reach out to **[nadazeineddin29@gmail.com]**.  
