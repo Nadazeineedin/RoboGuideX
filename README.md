@@ -61,7 +61,13 @@ cd RoboGuideX
 🔹 Use **LiDAR sensors** for more precise obstacle detection.  
 
 ## **📄 License**  
-This project is licensed under the **MIT License** – you are free to modify and distribute it.  
+This project is licensed under the **MIT License** – you are free to modify and distribute it.
+
+Note 🌟
+This project done by 
+Nada Zeineddin 
+khaled Alyousef
+zuhour Alsaqa
 
 ## 🎥 Demo Video  
 [![Watch the Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://github.com/user-attachments/assets/5f307b24-138e-4543-bc58-131b10712d67)
