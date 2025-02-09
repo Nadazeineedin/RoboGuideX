@@ -65,8 +65,8 @@ This project is licensed under the **MIT License** – you are free to modify an
 
 Note 🌟
 This project done by 
-**Nada Zeineddin** 
-**khaled Alyousef**
+**Nada Zeineddin** ،
+**khaled Alyousef**،
 **zuhour Alsaqa**
 
 ## 🎥 Demo Video  
