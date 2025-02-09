@@ -63,12 +63,19 @@ cd RoboGuideX
 ## **📄 License**  
 This project is licensed under the **MIT License** – you are free to modify and distribute it.
 
-Note 🌟
-This project done by 
-**Nada Zeineddin** ،
-**khaled Alyousef**،
-**zuhour Alsaqa**
 
+## Contributors ✨
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/zuhouralsaqa">
+        <img src="https://github.com/zuhouralsaqa.png" width="100px;" alt="Zuhour Alsaqa"/>
+        <br /><sub><b>Zuhour Alsaqa</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 ## 🎥 Demo Video  
 [![Watch the Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://github.com/user-attachments/assets/5f307b24-138e-4543-bc58-131b10712d67)
 
