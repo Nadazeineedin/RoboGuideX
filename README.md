@@ -74,6 +74,12 @@ This project is licensed under the **MIT License** – you are free to modify an
         <br /><sub><b>Zuhour Alsaqa</b></sub>
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/KhaledOMY">
+        <img src="https://github.com/KhaledOMY.png" width="100px;" alt="KhaledOMY"/>
+        <br /><sub><b>KhaledOMY</b></sub>
+      </a>
+    </td>
   </tr>
 </table>
 ## 🎥 Demo Video  
