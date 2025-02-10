@@ -82,8 +82,9 @@ This project is licensed under the **MIT License** – you are free to modify an
     </td>
   </tr>
 </table>
-## 🎥 Demo Video  
-[![Watch the Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://github.com/user-attachments/assets/5f307b24-138e-4543-bc58-131b10712d67)
+## 🎥 Demo Video
+
+[![Watch the Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 
 ## **📩 Contact & Contributions**  
